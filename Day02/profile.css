@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    
+}
+
+html{
+    background-color: rgb(255, 160, 100);
+}
+
+body{
+    width: 640px;
+    margin: auto; /* 너비에서 남는 여백을 동일하게 분배*/
+}
+
+h1{
+    font-family: monospace;
+    font-size: 48px;
+}
+
+img{
+    border-radius: 150px
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+#fun-facts{
+    font-family: monospace;
+}
